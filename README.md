@@ -3,21 +3,19 @@ I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https:
 
 <br/>
 
-<a href="https://twitter.com/MiguelA66750525">
-<img align="left" alt="Miguel Castillo Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
 <a href="https://www.linkedin.com/miguelcastilloa">
-<img align="left" alt="Miguel Castillo LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Miguel Castillo LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.instagram.com/alej4ndrocastillo">
-<img align="left" alt="Miguel Castillo Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128" />
+<img align="left" alt="Miguel Castillo Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+</a>
+
+<a href="https://twitter.com/MiguelA66750525">
+<img align="left" alt="Miguel Castillo Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 
 <br/>
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
-
-<br/>
 
 ## What i'm up to
 
