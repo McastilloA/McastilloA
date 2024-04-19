@@ -3,8 +3,8 @@
 </a>
 
 
-
-> #### I'm a FrontEnd developer with 🤘🏼 in [Angular](https://angular.io), passionate about technology, a proactive self-taught professional, always open to learn and adapt to new technologies. Hey if you are going to use any repository for whatever reason, let me a star, it won't take much of your time, I assure you. ✌🏼
+> [!IMPORTANT]
+> I'm a FrontEnd developer with 🤘🏼 in [Angular](https://angular.io), passionate about technology, a proactive self-taught professional, always open to learn and adapt to new technologies. Hey if you are going to use any repository for whatever reason, let me a star, it won't take much of your time, I assure you. ✌🏼
 
 <table style="border: none;" align="center">
   <tr style="border: none;">
