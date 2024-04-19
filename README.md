@@ -1,33 +1,33 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=100&pause=400&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=80&pause=400&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-### 👨🏻‍💻 I'm a Frontend developer with 🤘🏼 in [Angular](https://angular.io).
-<table style="border: none;">
+## 👨🏻‍💻 I'm a Frontend developer with 🤘🏼 in [Angular](https://angular.io), passionate about technology, a proactive self-taught professional, always open to learn and adapt to new technologies.
+<table style="border: none;" align="center">
   <tr style="border: none;">
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **SENA**
+          🔭 I'm currently looking for freelance work.
         </li>
         <li>
-          🤝 I’m looking to collaborate on Open Source Proyects
+          🤝 I like to collaborate in Open Source projects.
         </li>
         <li>
           🌱 I’m currently learning NestJS, Python and I’m currently working with
-          <a href="https://angular.io" target="_blank" rel="noopener noreferrer">Angular</a>; 
+          <a href="https://angular.io" target="_blank" rel="noopener noreferrer">Angular</a>.
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on 
-          <a href="https://github.com/mcastilloa?tab=repositories" rel="noopener noreferrer">Github</a>; 
+          <a href="https://github.com/mcastilloa?tab=repositories" rel="noopener noreferrer">Github</a>.
         </li>
         <li>
-          💬 Ask me about anything related to technologies, related in my stack, I will be glad to help you;
+          💬 Ask me about anything related to technologies, related in my stack, I will be glad to help you.
         </li>
         <li>
           📫 Feel free to contact me on
-          <a href="https://www.linkedin.com/in/miguelcastilloa" target="_blank" rel="noopener noreferrer">LinkedIn</a>; 
+          <a href="https://www.linkedin.com/in/miguelcastilloa" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
         </li>
         <li>
-          📝 Checkout my
+          📝 Checkout my page
           <a href="#" target="_blank" rel="noopener noreferrer">working on it</a>;
         </li>
     </td>
