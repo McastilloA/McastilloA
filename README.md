@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=70&pause=400&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-#### I'm a Frontend developer with 🤘🏼 in [Angular](https://angular.io), passionate about technology, a proactive self-taught professional, always open to learn and adapt to new technologies.
+#### I'm a FrontEnd developer with 🤘🏼 in [Angular](https://angular.io), passionate about technology, a proactive self-taught professional, always open to learn and adapt to new technologies.
 <table style="border: none;" align="center">
   <tr style="border: none;">
     <td style="border: none;">
@@ -43,6 +43,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="nofollow">
+  <img alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" style="max-width: 100%;">
+  </a>
+</code>
 <br />
 
 ## 📊 Github stats
