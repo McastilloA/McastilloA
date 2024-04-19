@@ -3,6 +3,9 @@
 </a>
 
 #### I'm a FrontEnd developer with 🤘🏼 in [Angular](https://angular.io), passionate about technology, a proactive self-taught professional, always open to learn and adapt to new technologies. Hey if you are going to use any repository for whatever reason, let me a star, it won't take much of your time, I assure you. ✌🏼
+
+> This page is an technical proof. I reserve any liability that may arise from improper handling of this public resource, warning about the possible consequences that could arise as a result of improper handling.
+
 <table style="border: none;" align="center">
   <tr style="border: none;">
     <td style="border: none;">
