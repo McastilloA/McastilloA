@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=70&pause=400&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=500&size=70&pause=200&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" />
 </a>
 
 #### I'm a FrontEnd developer with 🤘🏼 in [Angular](https://angular.io), passionate about technology, a proactive self-taught professional, always open to learn and adapt to new technologies.
