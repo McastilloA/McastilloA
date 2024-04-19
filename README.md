@@ -30,9 +30,6 @@
           📝 Checkout my [Page](https://www.davidsdvm.com/) 
         </li>
     </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
-    </td>
   </tr>
 </table>
 <br />
