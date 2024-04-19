@@ -1,20 +1,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=100&pause=400&center=true&vCenter=true&random=false&width=1000&height=200&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-## I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https://angular.io/)).
+#### I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https://angular.io/)).
 
 <br/>
 
-<a href="https://www.linkedin.com/in/miguelcastilloa">
-<img align="left" alt="Miguel Castillo LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+## 📊 Social Media:
+
+<a href="https://www.linkedin.com/in/miguelcastilloa" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Miguel Castillo LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
-<a href="https://www.instagram.com/alej4ndrocastillo">
-<img align="left" alt="Miguel Castillo Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+<a href="https://www.instagram.com/alej4ndrocastillo" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Miguel Castillo Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 
-<a href="https://twitter.com/MiguelA66750525">
-<img align="left" alt="mcastleverse Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+<a href="https://twitter.com/MiguelA66750525" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="mcastleverse Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 
+<br/>
 <br/>
 
 
