@@ -54,5 +54,5 @@ I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https:
 </p>
 
 
-> [!WARNING]
-> This page is an technical proof. I reserve any liability that may arise from improper handling of this public resource, warning about the possible consequences that could arise as a result of improper handling.
+> [!NOTE]
+> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
