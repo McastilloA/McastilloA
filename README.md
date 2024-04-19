@@ -1,4 +1,4 @@
-## Hello World 👋 It's [Miguel Castillo!](https://gonzalopozzo.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=40&duration=6000&pause=800&center=true&vCenter=true&random=false&width=800&height=70&lines=Hello+World!+;I'm+McastleVerse!+%F0%9F%A4%98%F0%9F%8F%BC)](https://git.io/typing-svg)
 I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https://angular.io/)).
 
 <br/>
@@ -37,8 +37,6 @@ I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https:
 
 ---
 
-![Goncy's github stats](https://github-readme-stats.vercel.app/api?username=McastilloA&show_icons=true&hide_border=true)
-
 ## 📊 Github stats
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
@@ -49,7 +47,7 @@ I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https:
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McastilloA&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
+  <img alt="mcastleverse Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McastilloA&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
   </a>
 </p>
 
