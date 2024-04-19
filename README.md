@@ -12,7 +12,7 @@
           🤝 I’m looking to collaborate on Open Source Proyects
         </li>
         <li>
-          🌱 I’m currently learning NestJS, Python and I’m currently working with [Angular](https://reactjs.org).; 
+          🌱 I’m currently learning NestJS, Python and I’m currently working with [Angular](https://angular.io/).; 
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
