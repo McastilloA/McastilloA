@@ -5,7 +5,6 @@
 <br/>
 
 ## 🌎 Social Media:
-
 <a href="https://www.linkedin.com/in/miguelcastilloa" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Miguel Castillo LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
@@ -19,33 +18,25 @@
 
 <br/>
 
----
-
 
 ##  What i'm up to
-
 - 🔭 I’m currently working @ [Vercel](https://vercel.com).
 - 🌱 I’m currently working with [Angular](https://reactjs.org).
 - 👯 Owner of a Developer Community.
-
 <br />
 
----
 
 ## 💻 Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
----
+<br />
 
 ## 📊 Github stats
-
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <br/>
