@@ -60,7 +60,7 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="mcastleverse Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcastilloa&langs_count=8&layout=donut&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
+  <img alt="mcastleverse Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcastilloa&langs_count=8&layout=compact&theme=react&bg_color=30,e96443,904e95&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10&hide=contribs,issues&rank_icon=github" height="192px"/>
   </a>
 </p>
 
