@@ -1,21 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=100&pause=400&center=true&vCenter=true&random=false&width=1000&height=150&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=100&pause=400&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
 #### I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https://angular.io/)).
 - 🔭 I’m currently working @ [Vercel](https://vercel.com).
 - 🌱 I’m currently working with [Angular](https://reactjs.org).
 - 👯 Owner of a Developer Community.
 <br />
-
-<br/>
-
-## 🌎 Social Media:
-<a href="https://www.linkedin.com/in/miguelcastilloa" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Miguel Castillo LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-</a>
-<a href="https://twitter.com/MiguelA66750525" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="mcastleverse Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-</a>
-<br/>
 
 ## 💻 Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
