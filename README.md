@@ -24,7 +24,7 @@
           <a href="https://github.com/mcastilloa?tab=repositories" rel="noopener noreferrer">Github</a>.
         </li>
         <li>
-          💬 Ask me about anything related to technologies, related in my stack, I will be glad to help you.
+          💬 Ask me about anything related to related technologies in my stack, and I will be willing to help you.
         </li>
         <li>
           📫 Feel free to contact me on
