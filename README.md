@@ -56,11 +56,11 @@
 <p align="center">
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="mcastleverse Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mcastilloa&show_icons=true&count_private=true&theme=radical&hide=contribs,issues&rank_icon=github" height="200px"/>
+  <img alt="mcastleverse Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mcastilloa&count_private=true&theme=radical&hide=issues&rank_icon=github" height="200px"/>
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="mcastleverse Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcastilloa&langs_count=8&layout=compact&theme=radical" height="200px"/>
+  <img alt="mcastleverse Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcastilloa&layout=compact&theme=radical&count_private=true" height="200px"/>
   </a>
 </p>
 
