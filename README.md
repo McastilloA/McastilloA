@@ -27,7 +27,7 @@
           <a href="https://www.linkedin.com/in/miguelcastilloa" target="_blank" rel="noopener noreferrer">LinkedIn</a>; 
         </li>
         <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/)
+          📝 Checkout my
           <a href="#" target="_blank" rel="noopener noreferrer">working on it</a>;
         </li>
     </td>
