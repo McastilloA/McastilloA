@@ -52,5 +52,7 @@ I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https:
   <img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McastilloA&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
   </a>
 </p>
-> [!NOTE]
-> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+> [!WARNING]
+> This page is an technical proof. I reserve any liability that may arise from improper handling of this public resource, warning about the possible consequences that could arise as a result of improper handling.
