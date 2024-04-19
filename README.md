@@ -56,7 +56,7 @@
 <p align="center">
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="mcastleverse Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mcastilloa&count_private=true&theme=radical&hide=issues&rank_icon=github" height="200px"/>
+  <img alt="mcastleverse Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mcastilloa&count_private=true&theme=radical&hide=issues&rank_icon=github" height="200px" style="width: 100%;"/>
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
