@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=100&pause=400&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-### 👨🏻‍💻 I'm a Frontend developer with 🤘🏼 in [Angular](https://angular.io/).
+### 👨🏻‍💻 I'm a Frontend developer with 🤘🏼 in [Angular](https://angular.io).
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
@@ -16,19 +16,19 @@
           <a href="https://angular.io" target="_blank" rel="noopener noreferrer">Angular</a>; 
         </li>
         <li>
-          👨🏻‍💻 Most of my projects are available on <a href="https://github.com/mcastilloa?tab=repositories" target="_blank" rel="noopener noreferrer">Github</a>; 
+          👨🏻‍💻 Most of my projects are available on 
+          <a href="https://github.com/mcastilloa?tab=repositories" rel="noopener noreferrer">Github</a>; 
         </li>
         <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+          💬 Ask me about anything related to technologies, related in my stack, I will be glad to help you;
         </li>
         <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
+          📫 Feel free to contact me on
+          <a href="https://www.linkedin.com/in/miguelcastilloa" target="_blank" rel="noopener noreferrer">LinkedIn</a>; 
         </li>
         <li>
-          🎷 When I am free, I like to play the Sax
-        </li>
-        <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
+          📝 Checkout my [Page](https://www.davidsdvm.com/)
+          <a href="#" target="_blank" rel="noopener noreferrer">working on it</a>;
         </li>
     </td>
   </tr>
@@ -50,11 +50,11 @@
 <p align="center">
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="mcastleverse Github Stats" src="https://github-readme-stats.vercel.app/api/?username=McastilloA&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
+  <img alt="mcastleverse Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mcastilloa&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="mcastleverse Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McastilloA&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
+  <img alt="mcastleverse Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcastilloa&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
   </a>
 </p>
 
