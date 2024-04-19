@@ -13,10 +13,10 @@
         </li>
         <li>
           🌱 I’m currently learning NestJS, Python and I’m currently working with
-          <a href="https://angular.io" target="_blank" rel="noopener noreferrer">Angular</a>.; 
+          <a href="https://angular.io" target="_blank" rel="noopener noreferrer">Angular</a>; 
         </li>
         <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+          👨🏻‍💻 Most of my projects are available on <a href="https://github.com/mcastilloa?tab=repositories" target="_blank" rel="noopener noreferrer">Github</a>; 
         </li>
         <li>
           💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
