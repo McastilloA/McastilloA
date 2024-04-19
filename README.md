@@ -12,7 +12,8 @@
           🤝 I’m looking to collaborate on Open Source Proyects
         </li>
         <li>
-          🌱 I’m currently learning NestJS, Python and I’m currently working with [Angular](https://angular.io/).; 
+          🌱 I’m currently learning NestJS, Python and I’m currently working with
+          <a href="https://angular.io" target="_blank" rel="noopener noreferrer">Angular</a>.; 
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
