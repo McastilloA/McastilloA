@@ -1,9 +1,40 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=100&pause=400&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-#### I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https://angular.io/)).
-- 🔭 I’m currently working @ [Vercel](https://vercel.com).
-- 🌱 I’m currently working with [Angular](https://reactjs.org).
-- 👯 Owner of a Developer Community.
+#### 👨🏻‍💻 I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https://angular.io/)).
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <ul>
+        <li>
+          🔭 I’m currently studying at **SENA**
+        </li>
+        <li>
+          🤝 I’m looking to collaborate on Open Source Proyects
+        </li>
+        <li>
+          🌱 I’m currently learning NestJS, Python y I’m currently working with [Angular](https://reactjs.org).; 
+        </li>
+        <li>
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+        </li>
+        <li>
+          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+        </li>
+        <li>
+          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
+        </li>
+        <li>
+          🎷 When I am free, I like to play the Sax
+        </li>
+        <li>
+          📝 Checkout my [Page](https://www.davidsdvm.com/) 
+        </li>
+    </td>
+    <td style="border: none;">
+      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
+    </td>
+  </tr>
+</table>
 <br />
 
 ## 💻 Languages and Tools
