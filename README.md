@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&weight=300&size=100&pause=400&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+;I'm+Mcastle!+%F0%9F%A4%98%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-#### 👨🏻‍💻 I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https://angular.io/)).
+### 👨🏻‍💻 I'm a Frontend developer with 🤘🏼 in [Angular](https://angular.io/).
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
@@ -12,7 +12,7 @@
           🤝 I’m looking to collaborate on Open Source Proyects
         </li>
         <li>
-          🌱 I’m currently learning NestJS, Python y I’m currently working with [Angular](https://reactjs.org).; 
+          🌱 I’m currently learning NestJS, Python and I’m currently working with [Angular](https://reactjs.org).; 
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
