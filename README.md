@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=40&duration=6000&pause=800&center=true&vCenter=true&random=false&width=800&height=70&lines=Hello+World!+;I'm+McastleVerse!+%F0%9F%A4%98%F0%9F%8F%BC)](https://git.io/typing-svg)
-I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https://angular.io/)).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=40&duration=6000&pause=800&center=true&vCenter=true&random=false&width=800&height=100&lines=Hello+World!+;I'm+McastleVerse!+%F0%9F%A4%98%F0%9F%8F%BC)](https://git.io/typing-svg)
+
+### I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https://angular.io/)).
 
 <br/>
 
