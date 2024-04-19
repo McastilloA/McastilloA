@@ -18,6 +18,7 @@
 </a>
 
 <br/>
+
 ---
 
 
@@ -28,6 +29,7 @@
 - 👯 Owner of a Developer Community.
 
 <br />
+
 ---
 
 ## 💻 Languages and Tools
