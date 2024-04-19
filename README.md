@@ -3,7 +3,7 @@ I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https:
 
 <br/>
 
-<a href="https://www.linkedin.com/miguelcastilloa">
+<a href="https://www.linkedin.com/in/miguelcastilloa">
 <img align="left" alt="Miguel Castillo LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.instagram.com/alej4ndrocastillo">
@@ -11,7 +11,7 @@ I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https:
 </a>
 
 <a href="https://twitter.com/MiguelA66750525">
-<img align="left" alt="Miguel Castillo Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+<img align="left" alt="mcastleverse Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 
 <br/>
@@ -20,9 +20,8 @@ I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https:
 ## What i'm up to
 
 - 🔭 I’m currently working @ [Vercel](https://vercel.com).
-- 🌱 I’m currently working with [React](https://reactjs.org).
+- 🌱 I’m currently working with [Angular](https://reactjs.org).
 - 👯 Owner of a Developer Community.
-- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com), [Twitch](https://twitch.gonzalopozzo.com) and [YouTube](https://youtube.gonzalopozzo.com).
 
 <br />
 
@@ -39,3 +38,20 @@ I'm a Frontend developer with 🤘🏼 in [Angular]([https://reactjs.org](https:
 ---
 
 ![Goncy's github stats](https://github-readme-stats.vercel.app/api?username=McastilloA&show_icons=true&hide_border=true)
+
+## 📊 Github stats
+
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="mcastleverse Github Stats" src="https://github-readme-stats.vercel.app/api/?username=McastilloA&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McastilloA&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
+  </a>
+  <br/>
+  > [!NOTE]
+  > Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
